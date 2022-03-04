@@ -1,0 +1,1 @@
+Technical Documentation template. Possibly have plans to make views and develop a backend as a more in depth template.
